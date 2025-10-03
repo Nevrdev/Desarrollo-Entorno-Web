@@ -1,0 +1,29 @@
+body{
+    background-color: darkred;
+}
+
+#Principal{
+    background-color: lemonchiffon;
+    width: 70%;
+    margin: auto;
+    padding: 50px 30px;
+}
+
+.EstiloSection{
+    background-color: burlywood;
+    padding: 2px;
+}
+h2{
+    color: chocolate;
+}
+
+h4{
+    color: blue;
+}
+#Titulo{
+    text-align: center;
+    color: brown;
+    text-shadow: 5px 20px 5px maroon;
+}
+
+
